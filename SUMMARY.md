@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-### Curriculum
+### Week 1
 
 * Part 1 - The Terminal
   * Terminal
@@ -63,17 +63,43 @@
     * [Solutions](part4/loops_solutions.md)
 
 * Part 5 - Arrays
-  * [Readings](part5/arrays_readings.md)
-  * [Quiz](part5/arrays_quiz.md)
-  * [Exercises](part5/arrays_exercises.md)
-  * [Solutions](part5/arrays_solutions.md)   
+    * [Readings](part5/arrays_readings.md)
+    * [Quiz](part5/arrays_quiz.md)
+    * [Exercises](part5/arrays_exercises.md)
+    * [Solutions](part5/arrays_solutions.md)
 
+* [Problem Sets](week1_problems/README.md)
 
-### Problem Sets
-* [Problem Sets](problem_sets/README.md)
+### Week 2
 
+* Part 6 - Ranges and Hashes
+  * Ranges
+    * [Readings](part6/range_readings.md)
+    * [Quiz](part6/range_quiz.md)
+    * [Exercises](part6/range_exercises.md)
+    * [Solutions](part6/range_solutions.md)
+  * Hashes
+    * [Readings](part6/hash_readings.md)
+    * [Quiz](part6/hash_quiz.md)
+    * [Exercises](part6/hash_exercises.md)
+    * [Solutions](part6/hash_solutions.md)
+
+Part 7 - Enumerables and Iterators
+  * Enumerables
+    * [Readings](part7/enumerable_readings.md)
+    * [Quiz](part7/enumerable_quiz.md)
+    * [Exercises](part7/enumerable_exercises.md)
+    * [Solutions](part7/enumerable_solutions.md)
+  * Iterators
+    * [Readings](part7/iterator_readings.md)
+    * [Quiz](part7/iterator_quiz.md)
+    * [Exercises](part7/iterator_exercises.md)
+    * [Solutions](part7/iterator_solutions.md)
+
+* [Problem Sets](week2_problems/README.md)
 
 ### Practice Assessments
+
 * [Practice Assessments](practice_assessments/README.md)
 
 
