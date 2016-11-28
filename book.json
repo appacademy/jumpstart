@@ -1,0 +1,30 @@
+{
+    "plugins": [
+        "expandable-chapters",
+        "quiz",
+        "hide-element"
+    ],
+    "pluginsConfig": {
+
+      "quiz": {
+        "labels": {
+            "check"             : "Check",
+            "showExplanation"   : "Explain",
+            "showCorrect"       : "Show Answer",
+            "explanationHeader" : "Explanation"
+        },
+        "text": {
+            "noChosen"    : "Choose at least one answer",
+            "incomplete"  : "Some correct answers are missing"
+        },
+        "buttons": {
+            "showCorrect"       : false,
+            "showExplanation"   : true
+        }
+      },
+
+    "hide-element": {
+          "elements": [".gitbook-link", "a:contains(config)", "a:contains(JumpStart)", ".custom-link"]
+      }
+    }
+}
