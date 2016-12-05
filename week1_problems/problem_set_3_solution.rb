@@ -7,7 +7,7 @@ end
 
 def count_vowels(string)
   count = 0
-  vowels = ["a", "e", "i", "o", "u"]
+  vowels = %w(a e i o u)
 
   string.chars.each do |character|
     if vowels.include?(character)

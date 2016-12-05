@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**All methods have a return value.** Meaning, if I set a variable equal to the result of invoking some method, then that variable will have some value.
+**All methods have a return value.** Meaning, if we set a variable equal to the result of invoking some method, then that variable will have some value.
 
 ```ruby
   def multiply(a, b)

@@ -24,7 +24,6 @@ Here are some of the terminal commands you will use on a daily basis. **Write th
  `pwd`   | print working directory | show you your current location
  `ls`    | list                    | show you what files/folders exist in your current location
  `cd`    | change directory        | move into and out of folders
- `mkdir` | make directory          | create a folder
  `clear` | (or command-K)          | clear the terminal output
  `ruby`  | ruby interpreter        | run a ruby file
  `irb`   | interactive ruby shell  | test small pieces of ruby code
@@ -59,15 +58,6 @@ The `cd` command changes your working directory. It is your primary tool for nav
 
 
 ![cd](./assets/terminal/cd.png)
-
----
-### mkdir
-
-The `mkdir` command creates a new directory (also known as a folder) at a provided path. For example `mkdir my_new_directory` creates a new directory called `my_new_directory` in the working directory. `mkdir my_new_directory/another_new_directory` creates a new directory called `another_new_directory` in `my_new_directory` which itself is in the working directory.
-
-By default `mkdir` can only make a new directory inside of an existing directory. If you tried to enter `mkdir funky/pics` and `funky` doesn't already exist it would not work. To get around this we can use the `-p` option. `mkdir -p funky/pics` would create both `funky` and `pics`.
-
-![mkdir](./assets/terminal/mkdir.png)
 
 ---
 ### clear

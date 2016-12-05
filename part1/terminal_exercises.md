@@ -2,7 +2,7 @@
 
 0. Practice using `cd`, `pwd`, and `ls` to explore your computer's directory structure. Enter `cd ..` until you go all the way down to the root directory, `/`. Look at the various directories that make up a Linux and OSX computer system. Don't worry, you're not going to break anything.
 
-0. Navigate to the directory of your desktop (if you're using your mac) or your workspace (if your using CLoud9). This is usually `~/Desktop` or `~/workspace`, respectively.  Use the `mkdir` command to make a new folder. See it appear!? (Feel free to delete it afterwards).
+0. Navigate to the directory of your desktop (if you're using your mac) or your workspace (if your using CLoud9). This is usually `~/Desktop` or `~/workspace`, respectively.
 
 0. Run the last three commands you executed without typing them manually! Use the up arrow and see what happens.
 

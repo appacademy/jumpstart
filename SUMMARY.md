@@ -84,7 +84,7 @@
     * [Exercises](part6/hash_exercises.md)
     * [Solutions](part6/hash_solutions.md)
 
-Part 7 - Enumerables and Iterators
+* Part 7 - Enumerables and Iterators
   * Enumerables
     * [Readings](part7/enumerable_readings.md)
     * [Quiz](part7/enumerable_quiz.md)
