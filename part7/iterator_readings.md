@@ -49,7 +49,7 @@ Now, let's count down from 10 to 1.
 ---
 ### `#step`
 
-Lastly, let's count from 0 to 100, but in increments of 5.
+Finally, let's count from 0 to 100, but in increments of 5.
 
   ```ruby
     0.step(100, 5) do |n|

@@ -32,5 +32,5 @@ You should be able to complete this course in 10 days, with 2-3 hours each day.
 | W1D7       | W2 Problem Set and a Practice Assessment |
 | W2D1       | W2 Problem Set and a Practice Assessment |
 | W2D2       | W2 Problem Set and a Practice Assessment |
-| W2D3       | Review, retake Practice Assessments      |
+| W2D3       | Review, Retake Practice Assessments      |
 | W2D3       | Final Assessment                         |

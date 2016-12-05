@@ -19,6 +19,8 @@ For example, let's say you have an array of integers and you want to double each
     [1, 2, 3].map { |el| el * 2 } # ==> [2, 4, 6]
   ```
 
+[enum-docs]: http://ruby-doc.org/core-2.3.1/Enumerable.html
+
 ### Code Blocks
 
 Code blocks used with `Array` and `Range` `Enumerable` methods use a single argument, but code blocks used with `Hash` and `Enumerable` methods use two arguments: one for keys and one for values.
@@ -123,5 +125,3 @@ Code blocks used with `Array` and `Range` `Enumerable` methods use a single argu
 
 
 **Try these in pry!**
-
-[documentation]: http://ruby-doc.org/core-2.3.1/Enumerable.html

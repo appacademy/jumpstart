@@ -2,6 +2,8 @@
 
 ## Introduction
 
+**You should finish all of the Week 1 Problem sets before moving on to this section!**
+
 Checkout the [Range Documentation][range-docs]. **Bookmark this page!** Look at the "Methods" column on the left-hand side.
 
 [range-docs]: https://ruby-doc.org/core-2.3.1/Range.html
