@@ -96,4 +96,8 @@ def sum_all_but_7(n)
 
   sum
 end
+
+sum_all_but_7(6) == 21
+sum_all_but_7(7) == 21
+sum_all_but_7(8) == 29
 ```
