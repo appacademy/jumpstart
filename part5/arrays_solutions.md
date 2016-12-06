@@ -5,7 +5,6 @@
   ```ruby
     def my_max(array)
       best = array[0]
-      idx = 1
 
       array[1..-1].each do |el|
         best = el if el > best
@@ -22,6 +21,7 @@
       array.sort[0]
     end
   ```
+
 0. Define a boolean method, `#has_multiple_of_three?(array)` that accepts an array as an argument. Your method should return true if any of the elements in the array are multiples of 3.
 
   ```ruby
@@ -29,7 +29,7 @@
       numbers.each do |number|
         return true if number % 3 == 0
       end
-      
+
       false
     end
   ```
