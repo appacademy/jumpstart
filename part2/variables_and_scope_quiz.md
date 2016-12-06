@@ -74,6 +74,6 @@
       <answer>5</answer>
       <answer>10</answer>
       <answer>15</answer>
-      <answer correct>nil</answer>
+      <answer correct>b will not be defined</answer>
   </question>
 </quiz>
