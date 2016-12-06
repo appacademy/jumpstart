@@ -79,18 +79,18 @@ end
 
 The `next` command is good for skipping over irrelevant iterations. Let's say we have the following problem statement:
 
-  *Define a method, sum_odds(n), that accepts an integer, n, as an argument. Sum all the odd integers between 0 and n.*
+  *Define a method, sum_all_but_7(n), that accepts an integer, n, as an argument. Sum all the odd integers between 0 and n, but skip 7!*
 
-We can use a while loop to iterate over all the numbers between 0 and n. We can then use `next` to skip over all the even numbers.
+We can use a while loop to iterate over all the numbers between 0 and n. We can then use `next` to skip over 7.
 
 ```ruby
-def sum_odds(n)
+def sum_all_but_7(n)
   i = 0
   sum = 0
 
-  while i <= n
+  while i < n
     i += 1
-    next if i.even?
+    next if i == 7
     sum += i
   end
 
