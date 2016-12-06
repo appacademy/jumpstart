@@ -1,4 +1,4 @@
-# Problem Sets
+# Week 2 Problem Sets
 
 #### Problem Set 1
   * <a href="/week2_problems/problem_set_1.rb" download >Problems</a>
