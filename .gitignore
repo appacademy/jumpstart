@@ -17,3 +17,6 @@ _book
 
 # Mac files
 .DS_Store
+
+
+.byebug_history
