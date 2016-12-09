@@ -1,4 +1,4 @@
-# Practice Assessments
+# Assessment 2 - Practice Assessments
 
 You should take these practice assessments in a timed setting! They are 1 hour in length. Remember, all assessments **are strictly closed-notes**. That means:
 

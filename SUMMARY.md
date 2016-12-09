@@ -70,6 +70,8 @@
 
 * [Problem Sets](week1_problems/README.md)
 
+* [Practice Assessment](practice_assessments_1/README.md)
+
 ### Week 2
 
 * Part 6 - Ranges and Hashes
