@@ -17,7 +17,7 @@
 # Sevens
 
 # Write a method, #sevens(n), that accepts an integer, n, as an argument. Your method
-# should return an array of the first n elements that contain the digit 7.
+# should return an array of the first n integers that contain the digit 7.
 
 def sevens(n)
 end
@@ -56,14 +56,14 @@ puts every_third_sum([3, 5, 2, 6, 7, 5, 4, 5, 4, 1, 1]) == 11
 
 # ex: character_by_character("ruby") ==> ["r", "ru", "rub", "ruby"]
 
-def character_by_character()
+def character_by_character(string)
 end
 
 puts "-------Character by Character-------"
-character_by_character("") == [""]
-character_by_character("a") == ["a"]
-character_by_character("run") == ["r", "ru", "run"]
-character_by_character("billy") == ["b", "bi", "bil", "bill", "billy"]
+puts character_by_character("") == []
+puts character_by_character("a") == ["a"]
+puts character_by_character("run") == ["r", "ru", "run"]
+puts character_by_character("billy") == ["b", "bi", "bil", "bill", "billy"]
 
 # ------------------------------------------------------------------------------
 
