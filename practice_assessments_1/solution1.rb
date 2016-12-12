@@ -2,7 +2,7 @@
 # Sevens
 
 def has_digit_7?(n)
-  n.to_s.chars.include?("7")
+  n.to_s.include?("7")
 end
 
 def sevens(n)
