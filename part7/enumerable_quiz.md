@@ -11,7 +11,7 @@
     <answer correct>Ranges</answer>
     <answer>Integers</answer>
   </question>
-  <question>
+  <question multiple>
     <p>Which of the following are Enumerable methods?</p>
     <answer correct>#any?</answer>
     <answer correct>#select</answer>
