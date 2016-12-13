@@ -73,7 +73,7 @@ puts character_by_character("billy") == ["b", "bi", "bil", "bill", "billy"]
 # Your method should return the largest sum that can be made by summing two consecutive
 # numbers
 
-# ex: lcts([1, 5, 6, 2, 2, 7]) ==> 2 + 7 ==> 9
+# ex: lcts([1, 5, 6, 2, 2, 7]) ==> 5 + 6 ==> 11
 
 def lcts(array)
 end
